@@ -1,0 +1,1 @@
+a = ' String[] wordListone = {"24/7", "multi-tier", "multi-tier"'
